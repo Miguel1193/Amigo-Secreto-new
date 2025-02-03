@@ -13,4 +13,4 @@
 <p>3. ¡importante! El usuario no debe dejar el campo vacío, caso contrario le satará una alerta.</p>
 <p>4. La cantidad de nombres mínimo es de 2</p>
 <p>5. Una vez ingreados todos los nombres, el usuario debe pulsar sobre el botón "Sortear Amigo"</p>
-<p>6. </p>
+
