@@ -11,7 +11,7 @@
 <p>1. El usuario debe ingresar los nombres en el campo indicado.</p>
 <p>2. Una vez ingresado deberá presionar el botón "añadir".</p>
 <p>3. No puede ingresar el mismo nombre 2 veces.</p>
-<p>4. ¡importante! El usuario no debe dejar el campo vacío, caso contrario le satará una alerta.</p>
+<p>4. ¡importante! El usuario no debe dejar el campo vacío, caso contrario le saltará una alerta.</p>
 <p>5. La cantidad de nombres mínimo es de 2</p>
 <p>6. Una vez ingreados todos los nombres, el usuario debe pulsar sobre el botón "Sortear Amigo"</p>
 
